@@ -2,6 +2,8 @@
 
 ![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
 
+Deploy it on port 3000
+
 ### Showcase your dev skills with practical experience and land the coding career of your dreams
 💻 JS Mastery Pro - https://jsmastery.pro/youtube
 ✅ A special YOUTUBE discount code is automatically applied!
